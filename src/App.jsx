@@ -6,7 +6,6 @@ import Support from "./Components/Support";
 import About from "./Components/About";
 import Labs from "./Components/Labs";
 import NotFound from "./Components/NotFound";
-import { Link } from "react-router-dom";
 import MainHeader from "./Components/MainHeader";
 
 function App() {
